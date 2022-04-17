@@ -4,13 +4,17 @@ In this research, we analyses and examine human-chatbot interaction and how the 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Emotions are fundamental to human and how we interact, it is a powerful thing that affect how we behave and with the advancement in computing and AI. AS such, it is important to recognize those and see how far we come. How comfortable are people with chatbot? This research will attempt to answer the question by letting a participants interact with a chatbot and gather up their conclusions.
 
+## How to operate
+
+See specific files folder to see usage guide, I included readme for those two item.
 ## Authors
 Farhan Haziq
 
 ## Progress
-Currently, the bots is undergoing a training and I'm currently preparing questionnaire for the participants
+~~Currently, the bots is undergoing a training and I'm currently preparing questionnaire for the participants~~
+Now, we are just conducting the experiment and writing the paper.
 
 ## License
 

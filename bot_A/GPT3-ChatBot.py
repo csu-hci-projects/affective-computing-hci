@@ -1,4 +1,7 @@
 import openai as ai
+import os                                                                                                                                                                                                          
+from dotenv import load_dotenv, find_dotenv
+from pathlib import Path
 
 def chat(question,chat_log = None) -> str:
     if(chat_log == None):
@@ -15,7 +18,9 @@ def modify_start_message(chat_log,question,answer) -> str:
     return chat_log
 
 if __name__ == "__main__":
-    ai.api_key = ""
+    load_dotenv(Path("/affective-computing-hci/bot_A/.env"))
+    print(os.getenv("OPENAI_API_KEY"))
+    ai.api_key = "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"
 
     completion = ai.Completion()
 
