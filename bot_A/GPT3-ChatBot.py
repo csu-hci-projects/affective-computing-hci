@@ -20,7 +20,7 @@ def modify_start_message(chat_log,question,answer) -> str:
 if __name__ == "__main__":
     load_dotenv(Path("/affective-computing-hci/bot_A/.env"))
     print(os.getenv("OPENAI_API_KEY"))
-    ai.api_key = "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"
+    ai.api_key = "PUT YOUR OPEN API KEY HERE"
 
     completion = ai.Completion()
 
