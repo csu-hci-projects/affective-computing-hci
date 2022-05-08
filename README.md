@@ -21,6 +21,9 @@ To run it, simply see each of the bot readme respectively, after that, just rela
 
 Also: Originally there was supposed to be bot for each app but I cannot get it to work :\
 
+## Project videos
+https://youtu.be/mDeP-6UA2M8
+
 ## License
 
 MIT License
