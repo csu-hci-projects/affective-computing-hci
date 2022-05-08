@@ -13,8 +13,13 @@ See specific files folder to see usage guide, I included readme for those two it
 Farhan Haziq
 
 ## Progress
-~~Currently, the bots is undergoing a training and I'm currently preparing questionnaire for the participants~~
-Now, we are just conducting the experiment and writing the paper.
+It is done
+To run it, simply see each of the bot readme respectively, after that, just relay the message to any messaging app you like.
+(you may also need your own API)
+
+
+
+Also: Originally there was supposed to be bot for each app but I cannot get it to work :\
 
 ## License
 
